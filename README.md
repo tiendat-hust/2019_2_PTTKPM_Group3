@@ -10,5 +10,5 @@ Bài tập lớn: Website xây dựng cây phả hệ
  Nhóm 3:
 - Dương Tiến Đạt
 - Dương Việt Anh
-- Bùi Bá Tiến
+- Bùi Gia Tiến
 - Ninh Minh Đông
